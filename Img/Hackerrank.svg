@@ -1,0 +1,11 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Hackerrank">
+<rect id="bg" width="500" height="500" fill="#0D141E"/>
+<rect id="rect" x="269.604" y="149.155" width="152.273" height="201.686" fill="#00EA64"/>
+<g id="H">
+<path d="M143.547 149.161H93.1254V350.847H143.547V275.215V224.793V149.161Z" fill="white"/>
+<path d="M244.39 149.161H193.968V224.793V250.004V275.215V350.847H244.39V149.161Z" fill="white"/>
+<path d="M143.547 224.793V275.215H193.968V250.004V224.793H143.547Z" fill="white"/>
+</g>
+</g>
+</svg>
